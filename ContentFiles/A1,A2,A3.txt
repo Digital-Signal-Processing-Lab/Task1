@@ -1,0 +1,6 @@
+Waveform of my voice signal A1 
+The utterance of digit '7' is recorded using inbuilt recorder app in mobilephone. The properties like Numchannels, SampleRate, BitsPerSample, BitRate are same which are 2, 44100, 16, -1 respectively. But TotalSamples were 142080 and Duration is 3.2218s. As the default format record was set to .wav format there was no need for conversion. A segment of the voice signal from 2.64s to 2.65s is plotted in Fig. 2.3.
+Waveform of my voice signal A2 
+The utterance of digit '9' is recorded using inbuilt recorder app in mobilephone. The properties like Numchannels, SampleRate, BitsPerSample, BitRate are same which are 2, 44100, 16, -1 respectively. But TotalSamples were 149184 and Duration is 3.3829s. As the default format record was set to .wav format, there was no need for conversion. A segment of the voice signal from 2.08s to 2.085s is plotted in Fig. 2.4.
+Waveform of my voice signal A3 
+The utterance of digit '11' is recorded using inbuilt recorder app in mobilephone. The properties like Numchannels, SampleRate, BitsPerSample, BitRate are same which are 2, 44100, 16, -1 respectively. But TotalSamples were 156288 and Duration is 3.5439s. As the default format record was set to .wav format there was no need for conversion. A segment of the voice signal from 2.08s to 2.085s is plotted in Fig. 2.5.

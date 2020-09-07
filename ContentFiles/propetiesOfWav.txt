@@ -1,0 +1,31 @@
+III. a) Find the properties of all the signals in Qn. I and II, including sampling rate. b) Is the sampling rate sufficient as per sampling theorem. Justify your answer. c) What will happen if the sampling rate is not sufficient
+The properties like Numchannels, SampleRate, BitsPerSample, BitRate are same which are 2, 44100, 16, -1 respectively.
+1.wav
+    TotalSamples =  303996
+    Duration =  6.8933
+2.wav
+    TotalSamples =  381763
+    Duration =  8.6568
+3.wav
+    TotalSamples =  566270
+    Duration =  12.841
+A1.wav
+    TotalSamples =  142080
+    Duration =  3.2218
+A2.wav
+    TotalSamples =  149184
+    Duration =  3.3829
+Name.wav
+    TotalSamples =  177600
+    Duration =  4.0272
+Roll number.wav
+    TotalSamples =  149184
+    Duration =  3.3829
+A3.wav
+    TotalSamples =  156288
+    Duration =  3.5439
+sentence .wav
+    TotalSamples =  220224
+    Duration =  4.9937
+    
+
