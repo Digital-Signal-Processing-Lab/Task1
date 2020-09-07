@@ -1,0 +1,35 @@
+Name
+Total
+sampling rate:8KHz
+samples:13920
+duration:1s
+Ploted
+samples:400
+duration:50ms
+
+R
+Total
+sampling rate:8KHz
+samples:9600
+duration:1s
+Ploted
+samples:400
+duration:50ms
+
+II2
+Total
+sampling rate:48KHz
+samples:97920
+duration:2s
+Ploted
+samples:2880
+duration:60ms
+
+II3
+Total
+sampling rate:48KHz
+samples:288000
+duration:6s
+Ploted
+samples:2880
+duration:60ms
