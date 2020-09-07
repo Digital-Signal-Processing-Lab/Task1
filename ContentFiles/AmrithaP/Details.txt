@@ -1,0 +1,17 @@
+Sentence
+Total
+sampling rate:96KHz
+samples:353280
+duration:3s
+Ploted
+samples:960
+duration:10ms
+
+Music
+Total
+sampling rate:48KHz
+samples:980811
+duration:20s
+Ploted
+samples:480
+duration:10ms
